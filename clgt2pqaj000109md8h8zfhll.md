@@ -3,6 +3,7 @@ title: "Ubuntu18安装GPU,CUDA,NVIDIA Docker"
 datePublished: Sun Apr 23 2023 07:14:02 GMT+0000 (Coordinated Universal Time)
 cuid: clgt2pqaj000109md8h8zfhll
 slug: ubuntu18gpucudanvidia-docker
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682234992612/97a38336-882b-4641-a420-380b2d72d727.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682234030723/85c004d9-8f72-411e-9019-bbe5d30e74ce.jpeg
 tags: docker, nvidia
 
